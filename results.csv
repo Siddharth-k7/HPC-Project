@@ -1,0 +1,3 @@
+kernel,n,block_size,threads,seconds,gflops
+naive,512,0,1,0.538436,0.4985
+blocked,512,64,1,0.561411,0.4781
